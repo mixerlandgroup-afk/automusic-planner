@@ -8,6 +8,11 @@ It can also start music automatically on a schedule using Windows Task Scheduler
 
 ![AutoMusic Planner screenshot](automusic_social_preview.png)
 
+## Download
+
+Download the latest version here:
+https://github.com/mixerlandgroup-afk/automusic-planner/releases/tag/v1.0.0
+
 ## How it works
 
 1. You choose your preferred player executable.
