@@ -6,6 +6,8 @@ AutoMusic Planner is a small Windows desktop utility that builds a fresh random 
 
 It can also start music automatically on a schedule using Windows Task Scheduler.
 
+![AutoMusic Planner screenshot](automusic_social_preview.png)
+
 ## How it works
 
 1. You choose your preferred player executable.
