@@ -123,3 +123,7 @@ To use the app on another Windows computer:
 6. Press **Save settings**
 
 The app will create a new config file and a new launch script on that computer.
+## Feedback
+
+If you find a bug or want to suggest an improvement, please open an issue:
+https://github.com/mixerlandgroup-afk/automusic-planner/issues
