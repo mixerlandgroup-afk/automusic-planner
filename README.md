@@ -1,5 +1,8 @@
 # AutoMusic Planner
 
+**Version:** v1.0.0  
+**Platform:** Windows
+
 Windows desktop app for smart playlist generation and scheduled music playback.
 
 AutoMusic Planner is a small Windows desktop utility that builds a fresh random playlist from your music folders, saves it as `.m3u`, and launches your preferred media player.
