@@ -16,6 +16,14 @@ It can also start music automatically on a schedule using Windows Task Scheduler
 Download the latest version here:
 https://github.com/mixerlandgroup-afk/automusic-planner/releases/tag/v1.0.0
 
+## Quick start
+
+1. Download `automusic_gui.bat`, `automusic_scheduler_gui.pyw`, and the README files.
+2. Make sure Python is installed on Windows.
+3. Run `automusic_gui.bat`.
+4. Choose your media player, playlist folder, and music folders.
+5. Save settings and start music.
+   
 ## How it works
 
 1. You choose your preferred player executable.
